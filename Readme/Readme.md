@@ -1,7 +1,7 @@
-# Examen Parcial 2 - Mutantes
+# GLOBAL MUTANTES PROGRAMACION
 - Nombre y Apellido: Enzo Ibarra
-- Legajo: 811192
-- Email: betsabemartin@gmail.com
+- Legajo: 51571
+- Email: bianenz12@gmail.com
 
 
 ## ¿De que va el proyecto?
